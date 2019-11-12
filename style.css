@@ -1,11 +1,13 @@
 h1{
 	text-align: center;
 	text-decoration: underline;
-	font-size: 400%
+	font-size: 400%;
+	font-family: "AR JULIAN";
 }
 
 p{
-	font-size: 200%;
+	font-size: 120%;
+	font-family: "AR JULIAN";
 }
 
 hr{
@@ -14,5 +16,19 @@ hr{
 }
 
 body{
-	background-color: White;
+	background-image: url('bg.png');
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 98%;
+	height: auto;
+	border-radius: 10px;
+	border: 1px solid black;
+}
+
+h2{
+	font-family: "AR JULIAN";
 }

@@ -1,0 +1,1 @@
+alert("Willkommen auf der Website\nvom Server JaknamMc!");
